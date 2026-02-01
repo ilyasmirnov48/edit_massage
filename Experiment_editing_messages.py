@@ -9,7 +9,7 @@ from aiogram.exceptions import TelegramBadRequest
 
 # Вместо BOT TOKEN HERE нужно вставить токен вашего бота,
 # полученный у @BotFather
-BOT_TOKEN = '7735138529:AAEsyKvRpHUIo_1PaXOGUpLGhw5eU0YTOOE'
+BOT_TOKEN = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
 
 bot = Bot(BOT_TOKEN)
 dp = Dispatcher()
