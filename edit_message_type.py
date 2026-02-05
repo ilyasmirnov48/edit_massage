@@ -13,7 +13,7 @@ logging.basicConfig(
 
 logger = logging.getLogger(__name__)
 
-BOT_TOKEN = '7735138529:AAEsyKvRpHUIo_1PaXOGUpLGhw5eU0YTOOE'
+BOT_TOKEN = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
 
 bot = Bot(BOT_TOKEN)
 dp = Dispatcher()
